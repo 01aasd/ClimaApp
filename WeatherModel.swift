@@ -1,10 +1,4 @@
-//
-//  WeatherModel.swift
-//  Clima
-//
-//  Created by Sergey Karachentsev on 17.07.2022.
-//  Copyright © 2022 App Brewery. All rights reserved.
-//
+
 
 import Foundation
 struct WeatherModel {
